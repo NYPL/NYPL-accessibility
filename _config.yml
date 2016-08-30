@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Vox Product Accessibility Guidelines
-email: voxproduct@voxmedia.com
+title: NYPL Accessibility Guidelines
+email: 
 description: > # this means to ignore newlines until "baseurl:"
-  As journalists, advertisers, producers, and creators, content is at our core at Vox Media. We want to ensure that everyone—regardless of ability, situation, or context—can access it.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://accessibility.voxmedia.com" # the base hostname & protocol for your site
+  NYPL Accessibility
+baseurl: "/NYPL-accessibility" # the subpath of your site, e.g. /blog
+url: "https://nypl.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
